@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e19ff70-f154-4caf-983e-21b4e19212b2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1c0np3gt2U6Iu7V5djsWSDP8uMQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="AffiliatesDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AffiliatesDriver" />
+      <module name="RaswanM_MP6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AffiliatesDriver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e19ff70-f154-4caf-983e-21b4e19212b2" name="Default Changelist" comment="" />
+      <created>1589674558520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589674558520</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="221" y="77" key="#Project_Structure" timestamp="1589684047705">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="221" y="77" key="#Project_Structure/0.23.1280.777@0.23.1280.777" timestamp="1589684047705" />
+    <state x="86" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589683908142">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="86" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777@0.23.1280.777" timestamp="1589683908142" />
+    <state x="359" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1589683895393">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="359" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1280.777@0.23.1280.777" timestamp="1589683895393" />
+    <state x="109" y="23" key="SettingsEditor" timestamp="1589684443826">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="109" y="23" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1589684443826" />
+    <state x="194" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1589674562520">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="194" y="244" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1589674562520" />
+    <state x="0" y="34" key="new project wizard" timestamp="1589684523528">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="0" y="34" key="new project wizard/0.23.1280.777@0.23.1280.777" timestamp="1589684523528" />
+  </component>
+</project>
